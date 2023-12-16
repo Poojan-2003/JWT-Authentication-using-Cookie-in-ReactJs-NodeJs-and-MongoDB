@@ -1,0 +1,52 @@
+.MainDiv{
+  /* border: 1px solid black; */
+  margin-top: 10%;
+  width: 50%;
+  margin-left: 40%;
+}
+
+.inp{
+  height: 40px;
+  width: 320px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.btn{
+  width: 150px;
+  height: 50px;
+  margin-left: 90px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: white;
+  background-color: #0d6efd;
+  border-radius: 10px;
+  border: none;
+  font-size: 21px;
+}
+
+.nav{
+  margin-left: 100px;
+}
+.nav1{
+  margin-left: 50px;
+}
+
+.btn:hover{
+  cursor: pointer;
+  transform: scale(0.8);
+}
+
+.heading{
+  font-size: 50px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+}
+
+.heading1{
+  font-size: 50px;
+  margin-bottom: 20px;
+  margin-left: 74px; 
+}
